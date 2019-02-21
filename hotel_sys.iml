@@ -21,16 +21,16 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 9.0.8" level="application_server_libraries" />
     <orderEntry type="module-library" exported="">
-      <library name="hotel">
+      <library>
         <CLASSES>
-          <root url="file://F:/java_workplace/hotel_sys/WebContent/WEB-INF/lib" />
+          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://F:/java_workplace/hotel_sys/WebContent/WEB-INF/lib" />
+          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
         </SOURCES>
-        <jarDirectory url="file://F:/java_workplace/hotel_sys/WebContent/WEB-INF/lib" recursive="false" />
-        <jarDirectory url="file://F:/java_workplace/hotel_sys/WebContent/WEB-INF/lib" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
   </component>
